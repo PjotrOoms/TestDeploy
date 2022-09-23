@@ -4,6 +4,7 @@
     <img class="logo" alt="hogeschool utrecht logo" src="@/assets/logo.png" />
 
     <p class="main-text">Sensor technologie voor de fysiotherapeut</p>
+    <p>TEST</p>
 
     <GoogleRegisterButton @click="RegisterWithGoogle()"></GoogleRegisterButton>
 
